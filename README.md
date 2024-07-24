@@ -18,3 +18,8 @@ Some of the applications are:
 7. Community Engagement and User Experience
 8. Legal and Compliance Document Review
 
+The images below shows how the model detects the duplicate and non-duplicate question pairs !
+
+![Screenshot](https://github.com/void1712/Duplicate-Question-Pairs/blob/main/dup.png)
+
+![Screenshot](https://github.com/void1712/Duplicate-Question-Pairs/blob/main/nondup.png)
